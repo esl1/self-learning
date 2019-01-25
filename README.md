@@ -1,2 +1,2 @@
 # self-learning
-labs and stuff
+everything from mit ocw to textbooks. all academia-related.
